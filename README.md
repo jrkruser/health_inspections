@@ -6,6 +6,6 @@ This project involves analyzing 2015-2019 LA County health inspection data acros
 
 To provide an accessible overview of the project, a simpler PDF version is avaliable, though with some visual elements missing:
 
-👉 [View the PDF version of the project](link-to-your-PDF)
+👉 [View the PDF version of the project](https://github.com/jrkruser/health_inspections/blob/main/Health_Inspections_Analysis.pdf)
 
 Feel free to download the files to explore the full notebook and detailed visualizations locally.
