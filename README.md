@@ -31,30 +31,30 @@ The dataset consists of approximately 200,000 health inspections conducted betwe
 ### 1. Score Distribution
 Scores below an 'A' grade are uncommon, with even lower scores being exceedingly rare.
 
-![Grade Distribution](readme_images/grade_distribution.png)
+![Grade Distribution](images_graphics/grade_distribution.png)
 
 ### 2. Geographic Analysis
 Using geographic coordinates for approximately 1,500 randomly selected inspections, we visualized the distribution of health scores across LA County.
 
-![Geographic Distribution](readme_images/coordinate_overlay_image.png)
+![Geographic Distribution](images_graphics/coordinate_overlay_image.png)
 *Figure 1: Health inspection scores across LA County.*
 
 ### 3. Analysis by Zip Code
 - Inspections took place across 380 zip codes.
 - Two zip codes (91749 and 90052) with low average scores were found to have very few inspections, indicating limited data.
 
-![Mean Scores by Zip](readme_images/mean_scores_by_zip.png)
+![Mean Scores by Zip](images_graphics/mean_scores_by_zip.png)
 
 ### 4. Socioeconomic Correlation
 - A weak positive relationship exists between median household income and inspection scores, but the impact is minimal (R-squared = 0.006).
 
-![Inspection Scores vs. Income](readme_images/inspection_scores_income.png)
+![Inspection Scores vs. Income](images_graphics/inspection_scores_income.png)
 *Figure 2: Relationship between median household income and inspection scores.*
 
 ### 5. Major Violations
 - The most common major violation is the presence of insects, rodents, or birds in the restaurant.
 
-![Violations vs. Income](readme_images/violations_vs_income.png)
+![Violations vs. Income](images_graphics/violations_vs_income.png)
 *Figure 3: Relationship between income and major violations.*
 
 - There is a weak negative correlation between median household income and the rate of major violations per zip code.
