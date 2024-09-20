@@ -71,7 +71,8 @@ Overall, the analysis indicates that health inspection scores are relatively hig
 
 - `HealthInspectionAnalysis.ipynb`: The complete analysis notebook (not viewable on GitHub due to size).
 - `Health_Inspections_Analysis.pdf`: A simplified version of the report for easy viewing.
-- `images_graphics/`: Contains visualizations and graphics for this readme file along with graphics that accompany the notebook.
+- `images_graphics/`: Contains visualizations and graphics that accompany the notebook.
+- `readme_images/`: Contains images imbedded in this readme file.
 
 ## How to Access the Full Analysis
 
