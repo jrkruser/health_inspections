@@ -8,9 +8,9 @@ Los Angeles County, California, is the largest U.S. county by population, home t
 - **Socioeconomic Impact**: Determine if lower-income areas are disadvantaged in terms of food safety.
 - **Public Health Insight**: Provide useful information to the LA County Department of Public Health for resource allocation and to help residents understand food safety risks.
 
-⚠️ **File Size Notice**: The main Jupyter Notebook (`HealthInspectionAnalysis.ipynb`) and accompanying HTML files are too large to be rendered directly on GitHub. For a summarized version, refer to the PDF linked below.
+⚠️ **File Size Notice**: The main Jupyter Notebook (`HealthInspectionAnalysis.ipynb`) and accompanying HTML files are too large to be rendered directly on GitHub. For a summarized version see below, or refer to the following PDF version of the notebook.
 
-👉 [View the PDF version of the project](https://github.com/jrkruser/health_inspections/blob/main/Health_Inspections_Analysis.pdf)
+👉 [View the PDF version of the project](https://github.com/jrkruser/health_inspections/blob/main/Health_Inspections_Analysis.pdf) - Some graphics limited in PDF version
 
 ## Data Overview
 
